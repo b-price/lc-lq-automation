@@ -1,0 +1,148 @@
+ID,Excerpt,SY1,SY2,CO1,CO2,LQ Code,Comment
+1,The system must provide user account creation as well as user profile generating capabilities,system,capabilities,account creation,profile generation,RDC
+2,A method to search and a feature to find information should be available,method,feature,search,find information,RDC
+3,Members should have the ability to sign in or log into the platform,ability,platform,sign in,log in,RDC
+4,The application is required to process payments and handle transaction management,application,management,process payments,handle transactions,RDC
+5,An option to reset passwords and a way to recover accounts should exist,option,way,reset passwords,recover accounts,RDC
+6,User access logs and user activity tracking should be compiled,logs,tracking,access,activity,RDC
+7,The platform shall offer customer support and provide helpdesk services,platform,services,customer support,helpdesk,RDC
+8,Real-time notifications and instant updates need to be implemented at all times,notifications,updates,real-time,instant,RDC
+9,The software has to ensure data backup and information preservation,software,preservation,data backup,information,RDC
+10,"For administration, control panel features and management tools must be provided",control panel,management tools,administration,features,RDC
+11,The system's storage capacity and data retention capabilities are to be expanded,system's storage,capabilities,capacity,data retention,RDC
+12,Users will be able to upload content and also post material on the site,upload,post,content,material,RDC
+13,The service must facilitate the dissemination of information and distribution of news,service,distribution,dissemination,news,RDC
+14,Reports should be auto-generated and dashboards must be dynamically updated,Reports,dashboards,auto-generated,dynamically updated,RDC
+15,The product will ensure confidentiality of data and safeguard privacy of users,product,safeguard,confidentiality,privacy,RDC
+16,Widgets for user interface customization and tools for UI personalization shall be present,Widgets,tools,customization,personalization,RDC
+17,User experience optimization and user interface enhancements are to be considered,optimization,enhancements,user experience,user interface,RDC
+18,A secure checkout process and a safe payment system must be designed,checkout process,payment system,secure,safe,RDC
+19,A robust error handling mechanism and a solid exception management framework need to be in place,mechanism,framework,error handling,exception management,RDC
+20,User sessions should be efficiently managed and session data must be properly controlled,managed,controlled,User sessions,session data,RDC
+21,Network connectivity issues and internet access problems must be addressed,Network connectivity,internet access,issues,problems,RDC
+22,File upload limitations and document submission restrictions should be documented,limitations,restrictions,File upload,document submission,RDC
+23,The software shall allow batch processing as well as bulk operations execution,software,operations,batch processing,bulk execution,RDC
+24,There should be an audit trail for monitoring and a tracking system for oversight,audit trail,tracking system,monitoring,oversight,RDC
+25,Redundant data entry and duplicate record submission must be eliminated,data entry,record submission,Redundant,duplicate,RDC
+26,It is essential for the platform to maintain a history of user activities as well as keep a log of user actions,history,log,user activities,user actions,RDC
+27,Information retrieval and data fetching should be optimized for performance,Information retrieval,data fetching,optimized,performance,RDC
+28,The service will offer encryption for security and coding for protection,encryption,coding,security,protection,RDC
+29,Servers hosting the application and machines running the software require frequent updates,Servers,machines,hosting,running,RDC
+30,The management dashboard and the control interface need user-friendly designs,management dashboard,control interface,user-friendly,designs,RDC
+31,Data synchronization across devices and information alignment amongst systems is required,synchronization,alignment,across devices,amongst systems,RDC
+32,The system's capacity for processing requests and its ability to handle queries must be improved,system's capacity,ability,processing requests,handle queries,RDC
+33,Data export functions and information sharing features should be enhanced,Data export,information sharing,functions,features,RDC
+34,Automated alerts and programmed notifications should be sent in a timely manner,Automated alerts,programmed notifications,sent,timely manner,RDC
+35,It is imperative to have a backup solution and a redundancy plan in place for data safety,backup solution,redundancy plan,data safety,,RDC
+36,"In case of service failure, a failover mechanism and a recovery strategy should be activated",failover mechanism,recovery strategy,service failure,,RDC
+37,The software architecture must support scalability and also permit expansion,software architecture,,scalability,expansion,RDC
+38,There needs to be a comprehensive guide for users and a detailed manual for operations,guide,manual,users,operations,RDC
+39,Interactive tutorials for learning and instructional videos for education must be available,tutorials,videos,learning,education,RDC
+40,The application will feature data encryption as well as ensure data privacy,feature,ensure,data encryption,data privacy,RDC
+41,The inclusion of a spam filter and the addition of a junk mail blocker are necessary,inclusion,addition,spam filter,junk mail blocker,RDC
+42,Performance metrics and operational statistics should be monitored regularly,metrics,statistics,Performance,operational,RDC
+43,A method for reporting issues and a channel for communicating problems must be established,method,channel,reporting issues,communicating problems,RDC
+44,Regular data backups and ongoing information duplication should be scheduled,data backups,information duplication,Regular,ongoing,RDC
+45,Monitoring system effectiveness and evaluating system performance are key aspects,Monitoring system,evaluating system,effectiveness,performance,RDC
+46,Email notifications and text alerts need to convey urgent messages promptly,Email,text,notifications,alerts,RDC
+47,User activity logs and operation history records must be easily accessible,activity logs,history records,User,operation,RDC
+48,Error messages should be clear and failure notices must be understandable,messages,notices,Error,failure,RDC
+49,A data restoration feature and a system recovery tool shall be integral components,restoration feature,recovery tool,data,system,RDC
+50,A streamlined checkout process and a straightforward payment mechanism are to be developed,checkout process,payment mechanism,streamlined,straightforward,RDC
+51,The system shall maintain a user profile and the user's preferences shall also be stored.,system,system,user profile,user's preferences,RDC
+52,"Notification and alerts shall be generated, and the system should also create reminders for the user.",system,system,notifications,alerts,RDC
+53,"Data backup will be performed automatically, and the system additionally ensures data replication for safety.",system,system,data backup,data replication,RDC
+54,The user can upload documents as well as files to their account.,user,user,documents,files,RDC
+55,The application shall track the location and also follow the movement of the individual.,application,application,track location,movement,RDC
+56,The report will include financial statistics and will also comprise economic data.,report,report,financial statistics,economic data,RDC
+57,"The tool generates a summary and in addition, it produces a concise abstraction of the data.",tool,tool,summary,abstraction,RDC
+58,Access rights are granted to users and permissions are also assigned to individuals.,system,system,access rights,permissions,RDC
+59,The device shall have a screen saver and will also feature a display lock for security.,device,device,screen saver,display lock,RDC
+60,The module computes the total and likewise calculates the sum of the transactions.,module,module,total,sum,RDC
+61,"User credentials comprise username and password, but also include login information.",credentials,credentials,username and password,login information,RDC
+62,"Error messages will be logged, and the system will record faults as well.",system,system,error messages,faults,RDC
+63,The database stores customer details and equally archives client information.,database,database,customer details,client information,RDC
+64,Administrators can edit settings and can also modify the configurations.,administrators,administrators,edit settings,modify configurations,RDC
+65,Search results will show relevant articles as well as display pertaining literature.,search results,search results,relevant articles,pertaining literature,RDC
+66,Backup files must be encrypted and security must also be applied to the backup archives.,Backup files,backup archives,encrypted,security,RDC
+67,The user interface should be intuitive and the interface should also be user-friendly.,user interface,interface,intuitive,user-friendly,RDC
+68,The process will audit transactions and will also perform an examination of records.,process,process,audit transactions,examination of records,RDC
+69,The email feature includes an inbox and also has a message receiving function.,email feature,email feature,inbox,message receiving function,RDC
+70,Graphs present trends while charts also exhibit patterns.,Graphs,charts,trends,patterns,RDC
+71,The firewall blocks unauthorized access but also impedes unapproved entry.,firewall,firewall,blocks,impedes,RDC
+72,The server synchronizes data and also aligns the information across the network.,server,server,synchronizes data,aligns information,RDC
+73,The calendar function supports date setting and also assists with scheduling events.,calendar function,calendar function,date setting,scheduling events,RDC
+74,System users can initiate processes and can further commence operations.,system users,system users,initiate processes,commence operations,RDC
+75,The user guide explains features and also elucidates functionalities.,user guide,user guide,explains features,elucidates functionalities,RDC
+76,"Messages can be archived or alternatively, they can be saved for later review.",Messages,Messages,archived,saved for later review,RDC
+77,The analytics module calculates risk factors and also estimates potential threats.,analytics module,analytics module,calculates risk factors,estimates potential threats,RDC
+78,The administrator can delete records and is also able to remove entries.,administrator,administrator,delete records,remove entries,RDC
+79,The schedule features time slots and additionally includes periods for activities.,schedule,schedule,time slots,periods for activities,RDC
+80,Maintenance tasks are recorded by the system and it also logs upkeep activities.,system,system,maintenance tasks,upkeep activities,RDC
+81,Invoices show amounts due and likewise display the payable sum.,Invoices,Invoices,amounts due,payable sum,RDC
+82,Detection algorithms find patterns and they also identify regularities.,Detection algorithms,Detection algorithms,find patterns,identify regularities,RDC
+83,The printer outputs documents and moreover it produces hard copies.,printer,printer,outputs documents,produces hard copies,RDC
+84,The application can reset passwords or additionally enable a password recovery option.,application,application,reset passwords,password recovery option,RDC
+115,The application will support account management features.,application,account management,software,user account operations,AMB,'Account management' can be ambiguous due to its broad interpretation scope.
+116,Security protocols must encrypt data.,Security protocols,data,encryption methods,information,AMB,The term 'data' is ambiguous as it can represent different types of data which may or may not need encryption.
+117,Customer information should be confidential.,Customer information,,client data,,AMB,"'Confidential' can have varying levels of security measures, creating ambiguity."
+118,The server must handle multiple requests simultaneously.,server,multiple requests,hardware,concurrent operations,AMB,'Multiple requests' is ambiguous without specifying a limit or extent.
+119,Access levels shall be defined for each user category.,Access levels,user category,permissions,user type,AMB,'User category' is ambiguous and needs further clarification.
+120,The system will automate the report generation process.,system,report generation,software,document creation,AMB,'Report generation' term is ambiguous depending on the type and purpose of the reports.
+121,The user shall be able to search with filters.,user,filters,person,search criteria,AMB,The term 'filters' is ambiguous as it could stand for various filtering functionalities.
+122,Error messages must be reviewed periodically.,Error messages,,system alerts,,AMB,"The term 'error messages' can cover a wide range of issues, making it ambiguous."
+123,Performance metrics shall be visible to admins.,Performance metrics,admins,system indicators,system managers,AMB,'Performance metrics' can be ambiguous as it may include various measures without a clear scope.
+124,The module will allow data synchronization across devices.,module,data synchronization,component,data alignment,AMB,'Data synchronization' can refer to various processes of aligning data across different platforms.
+125,Reports shall be generated on demand by the user.,Reports,on demand,documents,user request,AMB,'On demand' can lead to ambiguity if not specified whether it's manual or automatic upon certain criteria.
+126,The network should support high traffic during peak hours.,network,high traffic,communication system,heavy load,AMB,'High traffic' is ambiguous without defining specific thresholds or limits.
+127,The database should backup data regularly.,database,backup,data storage,data preservation,AMB,'Regularly' is an ambiguous term as it does not specify the frequency of backups.
+128,Aggregated user statistics will be anonymous.,Aggregated user statistics,,user data summary,,AMB,The term 'anonymous' is ambiguous regarding the extent of anonymity and data protection involved.
+129,The interface shall support multiple languages.,interface,multiple languages,user interface,language options,AMB,'Multiple languages' is ambiguous as it does not specify which or how many languages are supported.
+130,Exported data must be compatible with standard formats.,Exported data,standard formats,data export,format norms,AMB,'Standard formats' is ambiguous and needs to state specific formats for clear understanding.
+131,The system should allow users to customize their profiles.,system,customize,profiles,user settings,AMB,'Customize' is ambiguous as it may refer to different aspects of profile personalization.
+132,Error handling must be robust and informative.,Error handling,,system alerts,,AMB,"'Robust and informative' is ambiguous and needs specific criteria for error handling expectations."
+133,The application must support data archiving for historical records.,application,data archiving,historical records,data storage,AMB,'Historical records' is ambiguous without specifying the type and scope of data to be archived.
+134,The user interface should be responsive and adaptable.,user interface,responsive,adaptable,GUI design,AMB,'Responsive and adaptable' need clarification on specific design and adaptability criteria.
+135,Security measures should be implemented to protect user data.,Security measures,user data,implementation,data protection,AMB,'Security measures' is ambiguous and needs detailed specifications for implementation.
+136,The system shall ensure secure data transmission over the network.,system,secure data transmission,network,information exchange,AMB,'Secure data transmission' is ambiguous without specifying encryption or other security measures.
+137,Users must be able to reset their passwords securely.,Users,passwords,reset,security measures,AMB,'Reset passwords securely' needs clarification on the specific security protocols for password reset.
+138,The application shall provide an intuitive user onboarding process.,application,intuitive,user onboarding,process design,AMB,'Intuitive user onboarding' is ambiguous and requires clarification on specific onboarding elements.
+139,Error messages should guide users to resolve issues efficiently.,Error messages,users,resolve issues,system alerts,AMB,'Guide users to resolve issues efficiently' needs clarity on the guidance mechanisms and efficiency criteria.
+140,The system should validate user inputs to prevent data corruption.,system,user inputs,data corruption,validation process,AMB,'Prevent data corruption' is ambiguous without specifying the types of corruption and prevention measures.
+141,User permissions should be granular and role-based.,User permissions,granular,role-based,access control,AMB,'Granular and role-based' needs clarification on specific levels and roles for user permissions.
+142,The application must ensure seamless integration with external databases.,application,seamless integration,external databases,data connectivity,AMB,'Seamless integration' is ambiguous and requires specifications on integration processes and criteria.
+143,The system should allow users to track their activity history.,system,track,activity history,user monitoring,AMB,'Track activity history' needs clarification on the types of activities and tracking mechanisms involved.
+144,Data backup procedures should be automated and reliable.,Data backup procedures,automated,reliable,data preservation,AMB,'Automated and reliable' need specifications on automation processes and reliability criteria.
+145,The application should support user collaboration features.,application,user collaboration,features,collaboration tools,AMB,'User collaboration features' is ambiguous and needs clarification on specific collaboration functionalities.
+146,The system shall provide real-time feedback on user actions.,system,real-time feedback,user actions,feedback mechanisms,AMB,'Real-time feedback' needs clarification on the specific actions and feedback mechanisms.
+147,User preferences should be stored securely and privately.,User preferences,stored,securely,private storage,AMB,'Stored securely and privately' needs clarification on the security measures and privacy considerations.
+148,The application must ensure compatibility with various browsers.,application,compatibility,various browsers,browser support,AMB,'Compatibility with various browsers' needs clarification on specific browsers and compatibility criteria.
+149,The system should handle unexpected errors gracefully.,system,unexpected errors,gracefully,error handling,AMB,'Handle unexpected errors gracefully' needs specifications on error handling processes and graceful handling criteria.
+150,The user interface should follow accessibility standards.,user interface,accessibility standards,GUI design,standards compliance,AMB,'Follow accessibility standards' needs clarification on specific standards and compliance criteria.
+151,The application shall generate reports based on user-defined criteria.,application,generate reports,user-defined criteria,report generation,AMB,'User-defined criteria' needs clarification on the specific criteria and customization options.
+152,The system should provide clear documentation for end-users.,system,clear documentation,end-users,documentation quality,AMB,'Clear documentation for end-users' needs specifications on the type of documentation and clarity criteria.
+153,User profiles should include customizable settings.,User profiles,customizable settings,profile customization,user preferences,AMB,'Customizable settings' needs clarification on specific settings and customization options.
+154,The application must support efficient data filtering options.,application,efficient data filtering,data filtering,performance optimization,AMB,'Efficient data filtering' needs specifications on the efficiency criteria and filtering options.
+155,The system shall integrate with existing user authentication systems.,system,integrate,user authentication systems,authentication processes,AMB,'Integrate with existing user authentication systems' needs clarification on specific systems and integration processes.
+156,User notifications should provide relevant and timely information.,User notifications,relevant,timely information,notification system,AMB,'Relevant and timely information' needs clarification on the types of information and notification timing.
+157,The application should maintain a log of user activities.,application,maintain log,user activities,activity logging,AMB,'Maintain a log of user activities' needs clarification on the types of activities and logging details.
+158,The system shall enforce password complexity requirements.,system,enforce,password complexity requirements,security measures,AMB,'Enforce password complexity requirements' needs specifications on complexity criteria and enforcement methods.
+159,User accounts should support multi-factor authentication.,User accounts,multi-factor authentication,user authentication,security measures,AMB,'Multi-factor authentication' needs clarification on specific factors and authentication processes.
+160,The application should encrypt sensitive user data.,application,encrypt,sensitive user data,data protection,AMB,'Encrypt sensitive user data' needs specifications on the types of data and encryption methods.
+161,The system should notify users of upcoming system maintenance.,system,notify users,upcoming system maintenance,system alerts,AMB,'Notify users of upcoming system maintenance' needs clarification on notification methods and maintenance details.
+162,User roles and permissions should be easy to manage.,User roles and permissions,easy to manage,access control,management features,AMB,'Easy to manage' needs clarification on specific management features and user role actions.
+163,The application must prevent unauthorized access to user data.,application,prevent,unauthorized access,user data security,AMB,'Prevent unauthorized access to user data' needs specifications on prevention methods and access control.
+164,The system should allow users to export data in multiple formats.,system,export data,multiple formats,data export,AMB,'Export data in multiple formats' needs clarification on specific export formats and options.
+165,User interfaces should be consistent across different modules.,User interfaces,consistent,across modules,GUI design,AMB,'Consistent across different modules' needs clarification on specific modules and consistency criteria.
+166,The application must provide a user-friendly error message system.,application,user-friendly,error message system,system alerts,AMB,'User-friendly error message system' needs clarification on user-friendliness criteria and error messaging.
+167,The system shall conduct regular security audits.,system,conduct,security audits,security measures,AMB,'Conduct regular security audits' needs clarification on the frequency and scope of security audits.
+168,User data should be anonymized for privacy protection.,User data,anonymized,privacy protection,data privacy,AMB,'Anonymized for privacy protection' needs clarification on the level of anonymization and privacy measures.
+169,The application should allow users to reset their preferences.,application,allow users,reset preferences,user settings,AMB,'Allow users to reset their preferences' needs clarification on the specific preferences and reset options.
+170,The system shall support user feedback mechanisms.,system,support,user feedback,feedback systems,AMB,'Support user feedback mechanisms' needs clarification on specific feedback options and support processes.
+171,User interactions should be recorded for analysis purposes.,User interactions,recorded,analysis purposes,user behavior tracking,AMB,'Recorded for analysis purposes' needs clarification on the types of interactions and analysis goals.
+172,The application must provide efficient data caching mechanisms.,application,efficient data caching,data caching,performance optimization,AMB,'Efficient data caching mechanisms' needs specifications on efficiency criteria and caching options.
+173,The system should allow users to customize their dashboards.,system,allow users,customize dashboards,user interface customization,AMB,'Allow users to customize their dashboards' needs clarification on specific dashboard elements and customization options.
+174,User accounts should be locked after multiple unsuccessful login attempts.,User accounts,locked,multiple unsuccessful login attempts,security measures,AMB,'Locked after multiple unsuccessful login attempts' needs clarification on the number of attempts and lockout duration.
+175,The application should provide real-time collaboration features.,application,provide,real-time collaboration,collaboration tools,AMB,'Provide real-time collaboration features' needs clarification on specific collaboration functionalities and real-time aspects.
+176,The system shall encrypt communication between client and server.,system,encrypt communication,client-server communication,security measures,AMB,'Encrypt communication between client and server' needs clarification on encryption methods and communication details.
+177,User preferences should persist across different sessions.,User preferences,persist,across sessions,user settings,AMB,'Persist across different sessions' needs

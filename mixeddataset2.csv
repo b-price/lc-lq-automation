@@ -1,0 +1,31 @@
+ID,Excerpt,SY1,SY2,CO1,CO2,LQ Code,Comment
+85,The data model includes entities and it also encompasses object types.,data model,data model,entities,object types,RDC
+86,Client accounts show transaction history as well as present a record of financial operations.,Client accounts,Client accounts,transaction history,record of financial operations,RDC
+87,Software updates can be downloaded and also can be retrieved by the user.,Software updates,Software updates,downloaded,retrieved,RDC
+88,Automated emails will confirm registration and also acknowledge signup processes.,Automated emails,Automated emails,confirm registration,acknowledge signup,RDC
+89,Search features require keywords or alternatively demand search terms.,Search features,Search features,require keywords,demand search terms,RDC
+90,User preferences include color schemes and also cover layout selections.,User preferences,User preferences,color schemes,layout selections,RDC
+91,Safety measures include firewalls and they also involve antivirus software.,Safety measures,Safety measures,firewalls,antivirus software,RDC
+92,The digital assistant responds to voice commands and also reacts to spoken instructions.,digital assistant,digital assistant,responds to voice commands,reacts to spoken instructions,RDC
+93,Feedback forms collect customer opinions and also gather user feedback.,Feedback forms,Feedback forms,collect customer opinions,gather user feedback,RDC
+94,The billing system processes invoices and also handles billing statements.,billing system,billing system,processes invoices,handles billing statements,RDC
+95,Financial reports summarize revenue and also encapsulate income details.,Financial reports,Financial reports,summarize revenue,encapsulate income details,RDC
+96,Security protocols enforce rules and additionally implement regulations.,Security protocols,Security protocols,enforce rules,implement regulations,RDC
+97,The scanner digitizes documents and it also converts papers into electronic format.,scanner,scanner,digitizes documents,converts papers,RDC
+98,Chatbots provide assistance or also offer help through conversation.,Chatbots,Chatbots,provide assistance,offer help,RDC
+99,The cloud service stores data online and it also houses information on remote servers.,cloud service,cloud service,stores data online,houses information,RDC
+100,The authentication process verifies identity and also confirms user credentials.,authentication process,authentication process,verifies identity,confirms user credentials,RDC
+101,The system shall provide a secure login feature with two-factor authentication.,login,authentication,system,feature,AMB,The use of 'authentication' is ambiguous as it does not clearly represent the concept it stands for.
+102,The application must ensure that user input is validated before processing.,user input,processing,application,validation,AMB,The use of 'user input' is ambiguous as it can represent different concepts at the same time.
+103,The system should support multiple user roles and permissions.,system,user roles,permissions,support,AMB,The use of 'user roles' is ambiguous as it can refer to different sets of roles within the system.
+104,The application must be able to handle concurrency issues during data access.,application,data access,concurrency issues,handle,AMB,The phrase 'data access' is ambiguous as it could refer to various types of data access mechanisms.
+105,The system should support real-time notifications for all user activities.,system,notifications,user activities,real-time,AMB,The term 'notifications' is ambiguous as it may represent different types of notifications.
+106,The software product needs to provide efficient data storage and retrieval mechanisms.,software product,data storage,retrieval mechanisms,efficient,AMB,The use of 'data storage' is ambiguous as it can refer to different types of data storage.
+107,The application shall allow users to export data into various file formats.,application,export data,users,file formats,AMB,The term 'export data' is ambiguous as it may imply different forms of data export.
+108,The system should provide a seamless integration with third-party APIs.,system,integration,third-party APIs,seamless,AMB,The use of 'integration' is ambiguous as it can represent various integration processes.
+109,The software must maintain consistency across all user interfaces.,software,user interfaces,consistency,maintain,AMB,The term 'user interfaces' is ambiguous as it may refer to different types of interfaces.
+110,The system should ensure data privacy and compliance with GDPR regulations.,system,data privacy,compliance,regulations,AMB,The use of 'data privacy' is ambiguous as it may imply different aspects of data privacy.
+111,The system shall provide user data access.,system,user data,platform,information,AMB,The term 'user data' is ambiguous; it can refer to user's personal information or usage data.
+112,Notification messages must be clear.,Notification messages,,alerts,,AMB,"'Notification messages' can be interpreted as alerts or instructive text, leading to ambiguity."
+113,User interface needs to be friendly.,User interface,,GUI,,AMB,The concept of 'friendly' is ambiguous and can have multiple interpretations.
+114,Error logs should record all failures.,Error logs,failures,error reports,issues,AMB,'Failures' is ambiguous as it may refer to system crashes or operational errors.

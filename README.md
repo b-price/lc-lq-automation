@@ -1,3 +1,11 @@
+# lc-lq-automation
+
+Read steps below under COSC_432_BERT_Classifier to set up environment. Largely based on code by Ryan Kraft.
+
+Current implementation trains AI to classify an excerpt of RE text for language quality; limited to only classifying redundancy (RDC) and ambiguities (AMB). 
+
+A better dataset could enable more accurate and granular classification. Currently training with a dataset generated from chatGPT.
+
 # COSC_432_BERT_Classifier
 **Step 1: Installing Miniconda**    
 Miniconda is a package handeler that allows you to create a mini virtual enviornmant to run applications in and can be helpful for keeping project dependencies separate from your physical device and ensure that you will not ruin other projects that you have by downloading an out-dated dependency.    
@@ -44,5 +52,3 @@ there are a few extentions you will need to have downloaded on vscode in order t
 Once you have all dependencies installed, the last step is to select the kernel you would like to use to run the program. Open COSC_432_BERT_Classifier.ipynb file in vscode and in the top right you will see the select kernel button.     
 ![image](https://github.com/Ryan4412/COSC_432_BERT_Classifier/assets/103439799/6e3ce1ad-0471-4899-8b1d-bc965b8b6e18)     
 Click on it and select "Python Enviornments..." in the dropdown and then select the conda enviornment you just created. once it loads you will be ready to run the code.
-
-# lc-lq-automation

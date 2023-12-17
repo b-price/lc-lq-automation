@@ -1,0 +1,91 @@
+class_name,sentence
+Look&Feel,The application shall match the color of the schema set forth by Department of Homeland Security
+Look&Feel,The look and feel of the system shall conform to the user interface standards of the smart device.
+Look&Feel,The user interface shall have standard menus buttons for navigation
+Look&Feel,The system shall have a professional appearance
+Look&Feel,The product shall have a consistent color scheme and fonts.
+Look&Feel,The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.
+Look&Feel,All screens created as part of the Disputes application must comply with corporate standards for interface creation.
+Look&Feel,The product shall comply with corporate User Interface Guidelines
+Look&Feel,The product shall comply with corporate color scheme
+Look&Feel,The appearance of the product shall appear professional
+Look&Feel,The product\92s Look and Feel shall be able to incorporate aspects of the customer\92s organization such as logo  branding  and identity
+Look&Feel,The product shall have a conservative and professional appearance.
+Look&Feel,The website shall be attractive to all audiences.  The website shall appear to be fun and the colors should be bright and vibrant.
+Look&Feel,The system should use the company colors and logos.
+Look&Feel,The website design should be modern clean and concise.
+Usability,If projected the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30.
+Usability,The system shall be used by realtors with no training
+Usability,The product shall be easy to use by Adjusters and Collision Estimators.
+Usability,The product shall be easy to use
+Usability,The product shall be intuitive and self-explanatory.
+Usability,The product shall be learned with two days onsite training
+Usability,90% of untrained realtors shall be able to install the product on their device without printed instructions
+Usability,The product shall be easy for System Administrators and DBAs to use after two weeks of usage.Usability 100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.
+Usability,100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.
+Usability,100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.
+Usability,The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use.
+Usability,The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.
+Usability,Users shall feel satisfied using the product.  85% of all users will be satisfied with the product.
+Usability,The product shall be easy to learn by Adjusters and Collision Estimators.  The product shall be learned with two days onsite training.
+Usability,The system shall allow for user-friendly end-user report creation without requiring technical staff or expertise to create and publish reports within the modules
+Performance,The system shall refresh the display every 60 seconds.
+Performance,The product shall respond fast to keep up-to-date data in the display.
+Performance,The product shall produce search results in an acceptable time
+Performance,The search results shall be returned no later 30 seconds after the user has entered the search criteria
+Performance,The product shall generate a CMA report in an acceptable time.
+Performance,The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.
+Performance,The product shall synchronize contacts and appointments in an acceptable time.
+Performance,The product shall synchronize with the office system every hour.
+Performance,Staff members shall be able to complete a set of tasks in a timely manner.
+Performance,The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.
+Performance,The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.
+Performance,The Disputes application shall support 350 concurrent users without any degradation of performance in the application.
+Performance,The search for recycled parts shall take no longer than 15 seconds.  The search results shall be returned in under 15 seconds.
+Performance,The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds
+Performance,The recycled parts audit report shall be returned to the user within 10 seconds.  The audit report shall be returned within 10 seconds.
+Operability,The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.
+Operability,The application shall run on a web application server.
+Operability,The system shall operate within the Windows XP Professional operating system.
+Operability,The system shall interface with CampusConnect's central server
+Operability,The system shall interface with the faculty central server.
+Operability,The system shall interface with the student master server.
+Operability,We must be able to interface with any HTML browser.
+Operability,The WCS shall be accessed by users through the Internet on an IBM computer running a Windows 2000 or above operating system.
+Operability,The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database
+Operability,The Disputes application shall interface with the Cardmember Information Database.  The Cardmember Information Database provides detailed information with regard to a cardmember.  All cardmember detail information must be obtained from the Cardmember Information Database.
+Operability,The Disputes applications shall interface with the Merchant Information Database.  The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.
+Operability,The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.
+Operability,The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant's accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.
+Operability,The product must support Internet Explorer 5.5 and above.'
+Operability,The product must support Mozilla Firefox 1.0 and above.
+Maintainability,Maintenance releases will be offered to customers once a year.  The releases shall take no longer than 5 minutes for 80% of the customer base to install.
+Maintainability,The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.
+Maintainability,All new code shall be documented using the Javadoc documentation system.
+Maintainability,Washing parameters will be updated during scheduled maintenance hours.
+Maintainability,The Proposer shall test application enhancements  fixes  and upgrades and assure the integrity of the resulting data.
+Maintainability,The system shall provide an automated test script to validate the data after modifications or upgrades
+Maintainability,Test environments should be built for the application to allow testing of the applications different functions.
+Maintainability,The implementation must use the Strategy pattern for epidemic detection and cause-of-death trends and the Singleton pattern for database connections.
+Maintainability,The implementation shall adhere to the Java Coding Standards.
+Maintainability,The implementation shall run on the Windows platform in the Eclipse 3.3 environment.Maintainability "(2) A health plan may not delay or reject a transaction  or attempt to adversely affect the other entity or the transaction  because the transaction is a standard transaction."
+Maintainability,The PHP code will comply with PEAR standards.
+Maintainability,The product must be designed using Design Patterns and coding best practices.
+Maintainability,The product must be developed with the J2SE or J2EE programming language libraries
+Maintainability,The system shall provide an automated test script to validate the data after modifications or upgradesAvailability The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.
+Maintainability,The system shall provide the ability to perform real-time updates.
+Security,The product shall ensure that it can only be accessed by authorized users.  The product will be able to distinguish between authorized and unauthorized users in all access attempts.
+Security,Only registered realtors shall be able to access the system.
+Security,Every user of the system shall be authenticated and authorized.
+Security,The product shall prevent its data from incorrect data being introduced
+Security,Only authorized users shall have access to clinical site information.
+Security,Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.
+Security,Only authorized users shall have access to students' personal information.
+Security,Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students' personal information.
+Security,Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.
+Security,Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.
+Security,The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.
+Security,The system shall protect private information in accordance with the organization's information policy.
+Security,The system shall be built such that it is as secure as possible from malicious interference.
+Security,The system shall use the organization's standard virus protection software to help monitor threats to itself.
+Security,The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.

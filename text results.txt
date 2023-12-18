@@ -1,0 +1,31 @@
+10 epochs:
+
+{'Accuracy:  1.000', 'F1 Score:  1.000', 'Percision:  1.000', 'Recall:  1.000'}
+
+100%|██████████| 59/59 [08:03<00:00,  8.19s/it]
+Epochs: 1 | Train Loss:  0.821                 | Train Accuracy:  0.350                 | Val Loss:  0.729                 | Val Accuracy:  0.533
+100%|██████████| 59/59 [07:32<00:00,  7.67s/it]
+Epochs: 2 | Train Loss:  0.446                 | Train Accuracy:  0.863                 | Val Loss:  0.284                 | Val Accuracy:  1.000
+100%|██████████| 59/59 [07:18<00:00,  7.44s/it]
+Epochs: 3 | Train Loss:  0.167                 | Train Accuracy:  0.991                 | Val Loss:  0.076                 | Val Accuracy:  1.000
+100%|██████████| 59/59 [07:06<00:00,  7.23s/it]
+Epochs: 4 | Train Loss:  0.047                 | Train Accuracy:  1.000                 | Val Loss:  0.029                 | Val Accuracy:  1.000
+100%|██████████| 59/59 [07:04<00:00,  7.19s/it]
+Epochs: 5 | Train Loss:  0.021                 | Train Accuracy:  1.000                 | Val Loss:  0.020                 | Val Accuracy:  1.000
+100%|██████████| 59/59 [07:48<00:00,  7.94s/it]
+Epochs: 6 | Train Loss:  0.017                 | Train Accuracy:  1.000                 | Val Loss:  0.016                 | Val Accuracy:  1.000
+100%|██████████| 59/59 [07:38<00:00,  7.77s/it]
+Epochs: 7 | Train Loss:  0.012                 | Train Accuracy:  1.000                 | Val Loss:  0.013                 | Val Accuracy:  1.000
+100%|██████████| 59/59 [07:28<00:00,  7.60s/it]
+Epochs: 8 | Train Loss:  0.009                 | Train Accuracy:  1.000                 | Val Loss:  0.009                 | Val Accuracy:  1.000
+100%|██████████| 59/59 [07:07<00:00,  7.25s/it]
+Epochs: 9 | Train Loss:  0.008                 | Train Accuracy:  1.000                 | Val Loss:  0.010                 | Val Accuracy:  1.000
+100%|██████████| 59/59 [06:40<00:00,  6.78s/it]
+Epochs: 10 | Train Loss:  0.007                 | Train Accuracy:  1.000                 | Val Loss:  0.008
+
+1 epoch:
+
+{'Accuracy:  0.300', 'F1 Score:  0.304', 'Percision:  0.324', 'Recall:  0.300'}
+
+100%|██████████| 59/59 [07:43<00:00,  7.86s/it]
+Epochs: 1 | Train Loss:  0.898                 | Train Accuracy:  0.256                 | Val Loss:  0.889  
